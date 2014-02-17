@@ -6,6 +6,7 @@ Option Base 1
 Sub question1()
 
 'define variables as belows:
+dim i as integer
 
 
 
